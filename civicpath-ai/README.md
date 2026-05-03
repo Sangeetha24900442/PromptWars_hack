@@ -11,12 +11,6 @@ The election process, from registration to voting and result declaration, can of
 - Responsive, modern card-based UI.
 - Secure, with no personal data collection or tracking.
 
-## Screenshots
-*(Placeholders for screenshots)*
-- `[Screenshot of Hero Section]`
-- `[Screenshot of AI Chat Panel]`
-- `[Screenshot of Election Timeline]`
-
 ## Tech Stack
 | Component | Technology |
 |---|---|
