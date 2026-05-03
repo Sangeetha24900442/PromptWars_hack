@@ -1,6 +1,6 @@
 # CivicPath AI - Walkthrough
 
-This document explains how the CivicPath AI project satisfies the prompt's criteria.
+This document explains how the CivicPath AI project satisfies the hackathon criteria.
 
 ## 1. Instructions Followed
 The project adheres strictly to the provided instructions, using exactly the specified tech stack (React 18, Vite 5, Node.js, Express 4, Gemini 1.5 Flash, Jest, Supertest, pure CSS). The folder structure matches the requirements perfectly, and all specified sections, questions, text, and disclaimers are present exactly as requested.
